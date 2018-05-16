@@ -1,4 +1,5 @@
 # Learning in Brains and Machines
+Workshop at CdE Pfingstakademie, Mai 18 - 21, 2018
 
 ## About the Course
 
@@ -44,7 +45,7 @@ Ziel ist es, der Frage auf den Grund zu gehen, mit welchen Lernalgorithmen biolo
 - Introduction to Deep Learning with PyTorch: [Deep learning notebook](https://github.com/stes/learning-in-brains-and-machines/blob/master/Neural%20Networks.ipynb)
 - Introduction to Neuron Models: [Neuron Model Notebook](https://github.com/stes/learning-in-brains-and-machines/blob/master/Izhikevich%20Neuron%20Model.ipynb)
 
-## Workshop Day 2 - Saturday, Mai 19
+## Workshop Day 2 - Sunday, Mai 20
 
 ### Session 5, Part II: Integration of Deep Learning and Neuroscience? Diskussion.
 
