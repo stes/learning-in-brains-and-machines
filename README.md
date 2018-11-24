@@ -1,3 +1,5 @@
+![](img/Kursfoto.jpg)
+
 # Learning in Brains and Machines
 Workshop at CdE Pfingstakademie, Mai 18 - 21, 2018
 
