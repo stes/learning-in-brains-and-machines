@@ -1,8 +1,3 @@
----
-use_math: true
----
-
-
 ![](img/Kursfoto.jpg)
 
 # Learning in Brains and Machines
