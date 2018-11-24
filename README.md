@@ -1,3 +1,8 @@
+---
+use_math: true
+---
+
+
 ![](img/Kursfoto.jpg)
 
 # Learning in Brains and Machines
@@ -111,7 +116,10 @@ Session 1 und 2             |  Session 3
 Für eine gegebene, diskrete Wahrscheinlichkeitsverteilung
 $(p_i)_{i \in I}$ ist die Shannon-Entropie wie folgt (in die Einheit
 ‚Bit') wie folgt definiert:
-$$H ( (p_i)_{i \in I} ) := -\sum_{i \in I} p_i \log_2 (p_i).$$
+
+$$
+H ( (p_i)_{i \in I} ) := -\sum_{i \in I} p_i \log_2 (p_i).
+$$
 
 Die Einheit (hier in Bit) ergibt sich aus der Basis des verwendeten
 Logarithmus. Die Shannon-Entropie kann als Erwartungswert des
